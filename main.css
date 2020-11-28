@@ -13,6 +13,11 @@ body {
   margin: 0;
 }
 
+.page-title {
+  text-align: center;
+  font-weight: 100;
+}
+
 /* FOOTER NAVIGATION */
 
 nav {
@@ -28,7 +33,6 @@ nav li {
 nav li a {
     margin-right: 30px;
     padding: 8px 18px;
-    border: 4px solid #204156;
 }
 
 nav li a:active {
