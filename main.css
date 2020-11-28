@@ -62,7 +62,13 @@ nav ul {
 }
 
 .navbtn {
-  float: right;
+
+}
+
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .navbtn a {
