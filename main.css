@@ -61,11 +61,11 @@ nav ul {
   display: inline;
 }
 
-.contact-btn {
+.navbtn {
   float: right;
 }
 
-.contact-btn a {
+.navbtn a {
   cursor: pointer;
   margin-right: 30px;
   padding: 8px 18px;
