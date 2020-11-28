@@ -18,6 +18,22 @@ body {
   font-weight: 100;
 }
 
+.index-title {
+  text-align: left;
+  text-decoration: none;
+  margin: 20;
+  font-weight: 100;
+}
+
+.index-title a:active{
+  position: relative;
+  top: 2px; 
+}
+
+.profile {
+    border-radius: 50%;
+}
+
 /* FOOTER NAVIGATION */
 
 nav {
@@ -37,7 +53,7 @@ nav li a {
 
 nav li a:active {
   position: relative;
-  bottom: 2px;
+  top: 2px; 
 }
 
 nav a {
