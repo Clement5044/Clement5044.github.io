@@ -61,16 +61,6 @@ nav ul {
   display: inline;
 }
 
-.navbtn {
-
-}
-
-.navbar {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
 .navbtn a {
   cursor: pointer;
   margin-right: 30px;
