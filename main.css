@@ -4,7 +4,7 @@ html, body {
   flex-direction: column;
   font-weight: 300;
   line-height: 1.5;
-  background-color: darkslategrey;
+  background-color: darkslategray;
 }
 
 body {
@@ -49,6 +49,13 @@ body {
     display: inline-block;
     position: relative;
     color: whitesmoke;
+}
+
+.form {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center;
+    color: white;
 }
 
 ul {
