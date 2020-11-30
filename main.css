@@ -1,10 +1,15 @@
 html, body {
   min-height: 100%;
   display: flex;
+/*A flex display allows the content of the webpage to be seen across different displays hence its flex or dynamic name. It best fills up the space available or shrinks to avoid overflow. This provides a better user experience*/
   flex-direction: column;
+/*This property means that the content will be flexible as a column (vertically)*/
   font-weight: 300;
+/*font-weight sets the weight or boldness of the font*/
   line-height: 1.5;
+/*line-height sets the space in between the lines of text*/
   background-color: darkslategray;
+/*back-ground color sets the back ground color of the page*/
 }
 
 body {
