@@ -52,11 +52,19 @@ body {
 }
 
 .form {
-    display: flex; 
-    flex-wrap: wrap; 
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     color: white;
 }
+
+.backgroundText{
+    margin-left: 40px;
+    margin-top: 40px;
+    color: white;
+}
+
+
 
 ul {
     list-style: none;
@@ -81,7 +89,7 @@ nav li a {
 
 nav li a:active {
   position: relative;
-  top: 2px; 
+  top: 2px;
 }
 
 nav a {
