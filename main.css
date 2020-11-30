@@ -42,6 +42,7 @@ body {
     padding: 40px;
     display: inline;
     position: relative;
+    /*relative position means that the image will change relatively to the position of the margin*/
 }
 
 .workExperienceListText {
